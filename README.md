@@ -1,7 +1,6 @@
 # Hi, I'm Ali Hassan Khan!
 
-I'm a Security Researcher, Bug Bounty Hunter, and eJPT-certified Penetration Tester.  
-I've reported 100+ security vulnerabilities to companies like Google, Apple, Zoom, Microsoft, Meta, GitHub, and the U.S. Department of Defense.
+I have reported and been acknowledged for over 100 security vulnerabilities by leading organizations including Google, Apple, Zoom, Microsoft, Meta, GitHub, and the U.S. Department of Defense.
 
 ### 🔐 Areas of Expertise
 - Web & API Security Testing
